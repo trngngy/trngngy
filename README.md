@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Tên Bạn] 👋</h1>
+<h1 align="center">Hi there, I'm Truong Nguyen 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
@@ -11,34 +11,39 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 **Sinh viên năm 3** chuyên ngành [Ngành học] tại [Trường đại học].  
-- 💻 Đang làm đồ án nhỏ về **VaccinaCare**.  
-- 🌱 Đam mê **Web Development**, **AI**, và **Backend Development**.  
-- 📫 Liên hệ: [Email của bạn]  
+## 🚀 About Me  
+- 🎓 **Third-year student** majoring in **Software Engineering** at **FPT University**.   
+- 🌱 I’m currently learning **ASP.NET Core**  
+- 📫 Reach me at: **nguyenhattruong6200@gmail.com**  
 
 ---
 
-## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+## 🛠️ Tech Stack  
+### 🔹 Programming Languages  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
 
----
+### 🔹 Web Development  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
 
-## 📊 GitHub Stats
+### 🔹 Frameworks & Libraries  
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?style=flat&logo=dotnet&logoColor=white)  
+![WinForms](https://img.shields.io/badge/-WinForms-0078D6?style=flat&logo=windows&logoColor=white)  
+
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 🌍 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+## 🌍 Connect with Me  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)]([https://www.facebook.com/your-profile](https://www.facebook.com/trgnguyn))  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://www.instagram.com/your-profile](https://www.instagram.com/tntrng._.004/))  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)  
