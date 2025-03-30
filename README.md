@@ -46,4 +46,3 @@
 ## 🌍 Connect with Me  
 <a href="https://fb.com/trgnguyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="TrngNgy" height="30" width="40" /></a>
 <a href="https://instagram.com/tntrng._.004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="TrngNgy" height="30" width="40" /></a>
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)  
