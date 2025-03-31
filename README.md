@@ -26,12 +26,6 @@
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?style=flat&logo=dotnet&logoColor=white)  
 ![WinForms](https://img.shields.io/badge/-WinForms-0078D6?style=flat&logo=windows&logoColor=white)  
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trngngy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trngngy&layout=compact&langs_count=7&theme=radical"/>
-</p>
-
 ---
 
 ## 🌍 Connect with Me  
