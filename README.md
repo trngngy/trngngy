@@ -27,6 +27,14 @@
 ![WinForms](https://img.shields.io/badge/-WinForms-0078D6?style=flat&logo=windows&logoColor=white)  
 
 ---
+<h2 align="text-align: left">🐍 The snake is eating my commit:</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trngngy/trngngy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trngngy/trngngy/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+---
 
 ## 🌍 Connect with Me  
 <a href="https://fb.com/trgnguyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="TrngNgy" height="30" width="40" /></a>
